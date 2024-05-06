@@ -1,0 +1,14 @@
+.navbar{
+    display: grid;
+    grid-template-columns: min-content;
+    position: fixed;
+}
+.active-link{
+    color: #434BF8;
+    border-left: 4px solid #434BF8;
+    border-radius: 6px;
+}
+.navbar a {
+    margin-bottom: 20px;
+    padding: 5px 10px;
+}
